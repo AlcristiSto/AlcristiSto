@@ -1,5 +1,7 @@
 - 👋 Allan Cristian Santos do Nascimento  
 - 👀 Me interesso por baixo nível e cybersegurança 
+-  Web 
+-  sApp
 
 
 <!---
